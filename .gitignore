@@ -1,5 +1,7 @@
-*/input
-*/output
-*/sample*
-*/a.out
-*/a.out.dSYM
+**/input
+**/output
+**/sample*
+**/*.out
+**/*.in
+**/a.out
+**/a.out.dSYM
